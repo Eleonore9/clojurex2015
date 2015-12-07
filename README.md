@@ -3,35 +3,35 @@
 
 ## Day 1 - 03/12/2015
 
-#### Chris Ford, Dueling keyboards [Keynote] - [Video](https://skillsmatter.com/skillscasts/7240-keynote-dueling-keyboards),
-[Slides](https://skillsmatter.com/skillscasts/7240-keynote-dueling-keyboards)
+#### Chris Ford, Dueling keyboards [Keynote] - [Video](https://skillsmatter.com/skillscasts/7240-keynote-dueling-keyboards), [Slides](https://skillsmatter.com/skillscasts/7240-keynote-dueling-keyboards)
 
 Libraries references: [Overtone](https://overtone.github.io/)
 
-My take away:
+My take-away:
+
 The Baganda music has been research to illustrate the difference between the structure of its music and the rest of the world and more particularly between African music and Western European music. [Read more](https://en.wikipedia.org/wiki/Baganda_music)
 
 #### J. Pablo Fernández, What is a Macro? [Talk] - [Video](https://skillsmatter.com/skillscasts/7245-what-is-a-macro), [Slides]()
 
 Libraries references: []()
 
-My take away: 
-1) macros -> to be used carefully
+My take-away: 
+
+1) macros are to be used carefully
 
 "It's not about how many macros you write,
 but how many functions you didn't write by writing a macro."
 
-2) lisps and AST
+2) Lisps and AST
 
-For lisps the abstract syntax tree (AST) is accessible from a programme which makes it easy to extend the languages using macros. [Read more](http://www.braveclojure.com/read-and-eval/)
+For Lisps the abstract syntax tree (AST) is accessible from a programme which makes it easy to extend the languages using macros. [Read more](http://www.braveclojure.com/read-and-eval/)
 
 
-#### Bozhidar Batsov, CIDER: The journey so far and the road ahead [Talk] - [Video](https://skillsmatter.com/skillscasts/7225-cider-the-journey-so-far-and-the-road-ahead),
-[Slides](https://speakerdeck.com/bbatsov/cider-the-story-so-far-and-the-road-ahead)
+#### Bozhidar Batsov, CIDER: The journey so far and the road ahead [Talk] - [Video](https://skillsmatter.com/skillscasts/7225-cider-the-journey-so-far-and-the-road-ahead), [Slides](https://speakerdeck.com/bbatsov/cider-the-story-so-far-and-the-road-ahead)
 
 Libraries references: [CIDER](https://github.com/clojure-emacs/cider)
 
-My take away:
+My take-away:
 
 Must try: [cider debugger](http://endlessparentheses.com/cider-debug-a-visual-interactive-debugger-for-clojure.html),
 [clj-refactor](https://github.com/clojure-emacs/clj-refactor.el), [squiggly-clojure](https://github.com/clojure-emacs/squiggly-clojure) and other goodies from cider 0.10!
