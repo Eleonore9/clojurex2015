@@ -1,6 +1,20 @@
 # CLOJURE EXCHANGE 2015 - SkillsMatter, London
 
 
+__Heard at Clojure eXchange:__
+* _"Lisp is the best language"_ -> I think the context was: easy to write DSL (domain-specific languages)
+* _"Cider rocks"_ -> well of course cause CIDER = Clojure Interactive Development Environment that Rocks!
+* _"Emacs is the one true editor"_ -> choose your ~~religion~~ editor
+* _"Prismatic schema ftw"_ -> heard in several talks
+* _"Pure function is the solution"_ -> avoid state
+
+
+__Videos recommended by speakers:__
+* ["Thinking in Data"](http://www.infoq.com/presentations/Thinking-in-Data) by Stuart Sierra at Clojure/West
+* ["Simplicity matters"](http://www.youtube.com/watch?v=rI8tNMsozo0) by Rich Hickey at Rails Conf 2012 (keynote)
+* ["Simple made easy"](http://www.infoq.com/presentations/Simple-Made-Easy) by Rich Hickey at Strange Loop
+
+
 ## Day 1 - 03/12/2015
 
 #### Chris Ford, Dueling keyboards [Keynote] - [Video](https://skillsmatter.com/skillscasts/7240-keynote-dueling-keyboards), [Slides](https://skillsmatter.com/skillscasts/7240-keynote-dueling-keyboards)
