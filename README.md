@@ -41,7 +41,7 @@ but how many functions you didn't write by writing a macro."
 2) Lisps and AST
 
 For Lisps the abstract syntax tree (AST) is accessible from a programme which makes it easy to extend the languages using macros. [Read more](http://www.braveclojure.com/read-and-eval/)
-```
+
 
 #### Bozhidar Batsov, CIDER: The journey so far and the road ahead [Talk] - [Video](https://skillsmatter.com/skillscasts/7225-cider-the-journey-so-far-and-the-road-ahead), [Slides](https://speakerdeck.com/bbatsov/cider-the-story-so-far-and-the-road-ahead)
 
