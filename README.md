@@ -92,7 +92,7 @@ My take-away: I haven't worked with Cljs enough but those looks like good resour
 
 #### Dave Snowdon - Seeing With Clojure [Lightning Talk] - [Video](https://skillsmatter.com/skillscasts/7250-lightning-talks-day-1), [Slides](https://github.com/Davesnowdon/cljex-2015-opencv)
 
-Libraries references: (= (+ [OpenCV](http://opencv.org/) Clojure) [Vision](https://github.com/nakkaya/vision))
+Libraries references: (= [Vision](https://github.com/nakkaya/vision) (+ [OpenCV](http://opencv.org/) Clojure) )
 
 Other resources:
 
@@ -106,9 +106,20 @@ My take-away: It's cool, but there are much more resources for OpenCV with Pytho
 
 #### Mark Godfrey, Understanding our code with tests, schemas and types [Talk] - [Video](https://skillsmatter.com/skillscasts/7241-understanding-our-code-with-tests-schemas-and-types), [Slides]()
 
-Libraries references: []()
+Libraries references:
+[Prismatic schema](https://github.com/Prismatic/schema)
+[core.typed](https://github.com/clojure/core.typed/)
 
-Misc:
+
+My take-away:
+
+To make your code more easily understandable by your colleagues:
+
+* Don't forget to write docstrings,
+* Try and use maps as function arguments,
+* Write more tests!
+* Use Prismatic schemas,
+* Use types (maybe)
 
 
 #### Julian Birch, Beyond Reduce [Talk] - [Video](https://skillsmatter.com/skillscasts/7242-beyond-reduce), [Slides]()
@@ -120,7 +131,7 @@ Misc:
 
 #### Thomas Van Der Veen and Malcom Sparks, REST full web service in Clojure, two different approaches [Talk] - [Video](https://skillsmatter.com/skillscasts/7224-rest-full-web-service-in-clojure-two-different-approaches), [Slides]()
 
-Libraries references: []()
+Libraries references: [Yada](https://github.com/juxt/yada)
 
 Misc:
 
