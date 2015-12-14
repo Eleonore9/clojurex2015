@@ -27,7 +27,7 @@ The Baganda music has been research to illustrate the difference between the str
 
 #### J. Pablo Fernández, What is a Macro? [Talk] - [Video](https://skillsmatter.com/skillscasts/7245-what-is-a-macro), [Slides]()
 
-Libraries references: []()
+Other resource: [Blogpost](https://carouselapps.com/2015/08/13/macros-the-lisp-advantage/)
 
 My take-away: 
 
@@ -69,9 +69,11 @@ Must try and understand Elm =)
 
 #### Ernestas Lisauskas - Garden: CSS in Clojure and ClojureScript [Lightning Talk] - [Video](https://skillsmatter.com/skillscasts/7250-lightning-talks-day-1), [Slides]()
 
-Libraries references: []()
+Libraries references: [Garden](https://github.com/noprompt/garden)
 
-Misc:
+My take-away:
+
+Like [Hiccup](https://github.com/weavejester/hiccup) but for CSS
 
 
 #### David Humphreys - Testing times in Clojurescript [Lightning Talk] - [Video](https://skillsmatter.com/skillscasts/7250-lightning-talks-day-1), [Slides]()
