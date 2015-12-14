@@ -71,9 +71,7 @@ Must try and understand Elm =)
 
 Libraries references: [Garden](https://github.com/noprompt/garden)
 
-My take-away:
-
-Like [Hiccup](https://github.com/weavejester/hiccup) but for CSS
+My take-away: Like [Hiccup](https://github.com/weavejester/hiccup) but for CSS
 
 
 #### David Humphreys - Testing times in Clojurescript [Lightning Talk] - [Video](https://skillsmatter.com/skillscasts/7250-lightning-talks-day-1), [Slides](https://github.com/davidjameshumphreys/testing-times-in-clojurescript)
@@ -87,16 +85,21 @@ Libraries references:
 [Speclj](https://github.com/slagyr/speclj): TDD/BDD framework for Clojure
 
 
-My take-away:
-
-I haven't worked with Cljs enough but those looks like good resources to try!
+My take-away: I haven't worked with Cljs enough but those looks like good resources to try!
 
 
-#### Dave Snowdon - Seeing With Clojure [Lightning Talk] - [Video](https://skillsmatter.com/skillscasts/7250-lightning-talks-day-1), [Slides]()
+#### Dave Snowdon - Seeing With Clojure [Lightning Talk] - [Video](https://skillsmatter.com/skillscasts/7250-lightning-talks-day-1), [Slides](https://github.com/Davesnowdon/cljex-2015-opencv)
 
-Libraries references: []()
+Libraries references: (= (+ [OpenCV](http://opencv.org/) Clojure) [Vision](https://github.com/nakkaya/vision))
 
-Misc:
+Other resources:
+
+* Tutorial: [Intro to OpenCV with Clojure](http://docs.opencv.org/3.0-last-rst/doc/tutorials/introduction/clojure_dev_intro/clojure_dev_intro.html)
+
+* [OpenCV in Python](http://www.pyimagesearch.com/)
+
+
+My take-away: It's cool, but there are much more resources for OpenCV with Python
 
 
 #### Mark Godfrey, Understanding our code with tests, schemas and types [Talk] - [Video](https://skillsmatter.com/skillscasts/7241-understanding-our-code-with-tests-schemas-and-types), [Slides]()
