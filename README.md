@@ -19,16 +19,19 @@ __Videos recommended by speakers:__
 
 #### Chris Ford, Dueling keyboards [Keynote] - [Video](https://skillsmatter.com/skillscasts/7240-keynote-dueling-keyboards), [Slides](https://skillsmatter.com/skillscasts/7240-keynote-dueling-keyboards)
 
+```
 Libraries references: [Overtone](https://overtone.github.io/)
 
 My take-away:
 
 The Baganda music has been research to illustrate the difference between the structure of its music and the rest of the world and more particularly between African music and Western European music. [Read more](https://en.wikipedia.org/wiki/Baganda_music)
+```
 
 #### J. Pablo Fernández, What is a Macro? [Talk] - [Video](https://skillsmatter.com/skillscasts/7245-what-is-a-macro), [Slides]()
 
 Other resource: [Blogpost](https://carouselapps.com/2015/08/13/macros-the-lisp-advantage/)
 
+```
 My take-away: 
 
 1) macros are to be used carefully
@@ -39,7 +42,7 @@ but how many functions you didn't write by writing a macro."
 2) Lisps and AST
 
 For Lisps the abstract syntax tree (AST) is accessible from a programme which makes it easy to extend the languages using macros. [Read more](http://www.braveclojure.com/read-and-eval/)
-
+```
 
 #### Bozhidar Batsov, CIDER: The journey so far and the road ahead [Talk] - [Video](https://skillsmatter.com/skillscasts/7225-cider-the-journey-so-far-and-the-road-ahead), [Slides](https://speakerdeck.com/bbatsov/cider-the-story-so-far-and-the-road-ahead)
 
