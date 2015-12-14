@@ -19,19 +19,18 @@ __Videos recommended by speakers:__
 
 #### Chris Ford, Dueling keyboards [Keynote] - [Video](https://skillsmatter.com/skillscasts/7240-keynote-dueling-keyboards), [Slides](https://skillsmatter.com/skillscasts/7240-keynote-dueling-keyboards)
 
-```
 Libraries references: [Overtone](https://overtone.github.io/)
 
 My take-away:
 
 The Baganda music has been research to illustrate the difference between the structure of its music and the rest of the world and more particularly between African music and Western European music. [Read more](https://en.wikipedia.org/wiki/Baganda_music)
-```
+
 
 #### J. Pablo Fernández, What is a Macro? [Talk] - [Video](https://skillsmatter.com/skillscasts/7245-what-is-a-macro), [Slides]()
 
 Other resource: [Blogpost](https://carouselapps.com/2015/08/13/macros-the-lisp-advantage/)
 
-```
+
 My take-away: 
 
 1) macros are to be used carefully
