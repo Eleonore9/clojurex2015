@@ -51,11 +51,20 @@ Must try: [cider debugger](http://endlessparentheses.com/cider-debug-a-visual-in
 [clj-refactor](https://github.com/clojure-emacs/clj-refactor.el), [squiggly-clojure](https://github.com/clojure-emacs/squiggly-clojure) and other goodies from cider 0.10!
 
 
-#### Kris Jenkins, ClojureScript: Architecting for Scale [Talk] - [Video](https://skillsmatter.com/skillscasts/7227-clojurescript-architecting-for-scale), [Slides]()
+#### Kris Jenkins, ClojureScript: Architecting for Scale [Talk] - [Video](https://skillsmatter.com/skillscasts/7227-clojurescript-architecting-for-scale), [Slides](https://github.com/krisajenkins/ClojureScriptForScale/blob/master/ClojureScriptForScale.org)
 
-Libraries references: []()
+Libraries references:
 
-Misc:
+[Demo](https://github.com/krisajenkins/petrol/tree/master/examples) to handle two counters and Spotify events on the same UI
+using [Petrol](https://github.com/krisajenkins/petrol) framework.
+
+My take-away:
+
+Must try Petrol framework!
+
+Also this framework is inspired from the Elm architecture. See Kris' Elm architecture tutorial [here](https://github.com/evancz/elm-architecture-tutorial).
+
+Must try and understand Elm =)
 
 
 #### Ernestas Lisauskas - Garden: CSS in Clojure and ClojureScript [Lightning Talk] - [Video](https://skillsmatter.com/skillscasts/7250-lightning-talks-day-1), [Slides]()
