@@ -76,11 +76,20 @@ My take-away:
 Like [Hiccup](https://github.com/weavejester/hiccup) but for CSS
 
 
-#### David Humphreys - Testing times in Clojurescript [Lightning Talk] - [Video](https://skillsmatter.com/skillscasts/7250-lightning-talks-day-1), [Slides]()
+#### David Humphreys - Testing times in Clojurescript [Lightning Talk] - [Video](https://skillsmatter.com/skillscasts/7250-lightning-talks-day-1), [Slides](https://github.com/davidjameshumphreys/testing-times-in-clojurescript)
 
-Libraries references: []()
+Libraries references:
 
-Misc:
+[Doo](https://github.com/bensu/doo): easy to configure,
+
+[DevCards](https://github.com/bhauman/devcards): provides an interactive visual REPL,
+
+[Speclj](https://github.com/slagyr/speclj): TDD/BDD framework for Clojure
+
+
+My take-away:
+
+I haven't worked with Cljs enough but those looks like good resources to try!
 
 
 #### Dave Snowdon - Seeing With Clojure [Lightning Talk] - [Video](https://skillsmatter.com/skillscasts/7250-lightning-talks-day-1), [Slides]()
