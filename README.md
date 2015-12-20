@@ -151,3 +151,94 @@ Misc:
 
 
 ## Day 2 - 04/12/2015
+
+#### Bridget Hillyer, A tour of the Clojure ecosystem [Keynote] - [Video](), [Slides]()
+
+Libraries references: []()
+
+Misc:
+
+
+#### Nicola Mometto, Immutable code analysis with tools.analyzer - [Video](), [Slides]()
+
+Libraries references: []()
+
+Misc:
+
+
+#### Martin Trojer, Best of both worlds, combining Cassandra and Elasticsearch to store and analyse time-series data - [Video](), [Slides]()
+
+Libraries references: []()
+
+Misc:
+
+
+#### Henry Garner, Expressive parallel analytics with Clojure - [Video](), [Slides]()
+
+Libraries references: []()
+
+Misc:
+
+
+#### Glenn Mailer, Are you afraid of dependencies? - [Video](), [Slides]()
+
+Libraries references: []()
+
+Misc:
+
+
+#### Alejandro Gómez, Cats & Monads - [Video](), [Slides]()
+
+Libraries references: []()
+
+Misc:
+
+
+#### Frankie Sardo, Revaluating Pedestal - [Video](), [Slides]()
+
+Libraries references: []()
+
+Misc:
+
+
+#### Hans Hübner, Datomic in Practice - [Video](), [Slides]()
+
+Libraries references: []()
+
+Misc:
+
+
+#### Patrick Monteith, Building modular systems with asystant - [Video](), [Slides]()
+
+Libraries references: []()
+
+Misc:
+
+
+#### Andrei Ursan, Actor systems in Clojure: What are your options? - [Video](), [Slides]()
+
+Libraries references: []()
+
+Misc:
+
+
+#### Yann Esposito and Guillaume Buisson - [Video](), [Slides]()
+
+Libraries references: []()
+
+Misc:
+
+
+#### Ali King, ClojureBridge - Building a more diverse Clojure community - [Video](), [Slides]()
+
+Libraries references: []()
+
+Misc:
+
+
+#### William Hamiltom, Event-based architecture with Kafka and Clojure - [Video](), [Slides]()
+
+Libraries references: []()
+
+Misc:
+
