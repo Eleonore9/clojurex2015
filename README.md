@@ -26,7 +26,7 @@ My take-away:
 The Baganda music has been research to illustrate the difference between the structure of its music and the rest of the world and more particularly between African music and Western European music. [Read more](https://en.wikipedia.org/wiki/Baganda_music)
 
 
-#### J. Pablo Fernández, What is a Macro? [Talk] - [Video](https://skillsmatter.com/skillscasts/7245-what-is-a-macro), [Slides]()
+#### J. Pablo Fernández, What is a Macro? [Talk] - [Video](https://skillsmatter.com/skillscasts/7245-what-is-a-macro), Slides
 
 Other resource: [Blogpost](https://carouselapps.com/2015/08/13/macros-the-lisp-advantage/)
 
@@ -69,7 +69,7 @@ Also this framework is inspired from the Elm architecture. See Kris' Elm archite
 Must try and understand Elm =)
 
 
-#### Ernestas Lisauskas - Garden: CSS in Clojure and ClojureScript [Lightning Talk] - [Video](https://skillsmatter.com/skillscasts/7250-lightning-talks-day-1), [Slides]()
+#### Ernestas Lisauskas - Garden: CSS in Clojure and ClojureScript [Lightning Talk] - [Video](https://skillsmatter.com/skillscasts/7250-lightning-talks-day-1), Slides
 
 Libraries references: [Garden](https://github.com/noprompt/garden)
 
@@ -104,7 +104,7 @@ Other resources:
 My take-away: It's cool, but there are much more resources for OpenCV with Python
 
 
-#### Mark Godfrey, Understanding our code with tests, schemas and types [Talk] - [Video](https://skillsmatter.com/skillscasts/7241-understanding-our-code-with-tests-schemas-and-types), [Slides]()
+#### Mark Godfrey, Understanding our code with tests, schemas and types [Talk] - [Video](https://skillsmatter.com/skillscasts/7241-understanding-our-code-with-tests-schemas-and-types), Slides
 
 Libraries references:
 [Prismatic schema](https://github.com/Prismatic/schema)
@@ -122,28 +122,28 @@ To make your code more easily understandable by your colleagues:
 * Use types (maybe)
 
 
-#### Julian Birch, Beyond Reduce [Talk] - [Video](https://skillsmatter.com/skillscasts/7242-beyond-reduce), [Slides]()
+#### Julian Birch, Beyond Reduce [Talk] - [Video](https://skillsmatter.com/skillscasts/7242-beyond-reduce), [Slides](https://github.com/JulianBirch/beyond-reduce-presentation)
 
 Libraries references: []()
 
 Misc:
 
 
-#### Thomas Van Der Veen and Malcom Sparks, REST full web service in Clojure, two different approaches [Talk] - [Video](https://skillsmatter.com/skillscasts/7224-rest-full-web-service-in-clojure-two-different-approaches), [Slides]()
+#### Thomas Van Der Veen and Malcom Sparks, REST full web service in Clojure, two different approaches [Talk] - [Video](https://skillsmatter.com/skillscasts/7224-rest-full-web-service-in-clojure-two-different-approaches), Slides
 
 Libraries references: [Yada](https://github.com/juxt/yada)
 
 Misc:
 
 
-#### James Reeves, Duct Covered [Talk] - [Video](https://skillsmatter.com/skillscasts/7229-duct-covered), [Slides]()
+#### James Reeves, Duct Covered [Talk] - [Video](https://skillsmatter.com/skillscasts/7229-duct-covered), Slides
 
 Libraries references: []()
 
 Misc:
 
 
-#### Michiel Trimpe, Conversational Computing: How Okasaki made McCarthy right yet again [Talk] - [Video](https://skillsmatter.com/skillscasts/7277-conversational-computing-how-okasaki-made-mccarthy-right-yet-again), [Slides]()
+#### Michiel Trimpe, Conversational Computing: How Okasaki made McCarthy right yet again [Talk] - [Video](https://skillsmatter.com/skillscasts/7277-conversational-computing-how-okasaki-made-mccarthy-right-yet-again), Slides
 
 Libraries references: []()
 
