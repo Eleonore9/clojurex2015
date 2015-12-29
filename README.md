@@ -14,6 +14,9 @@ __Videos recommended by speakers:__
 * ["Simplicity matters"](http://www.youtube.com/watch?v=rI8tNMsozo0) by Rich Hickey at Rails Conf 2012 (keynote)
 * ["Simple made easy"](http://www.infoq.com/presentations/Simple-Made-Easy) by Rich Hickey at Strange Loop
 
+__Other resources:__
+[Clean up a messy ns with cider + Clj-refactor](https://benedekfazekas.github.io/2015/12/06/clean-up-namespace-with-cider-cljrefactor/) by Benedek Fazekas (@bfazek)
+
 
 ## Day 1 - 03/12/2015
 
@@ -131,116 +134,115 @@ Misc:
 
 #### Thomas Van Der Veen and Malcom Sparks, REST full web service in Clojure, two different approaches [Talk] - [Video](https://skillsmatter.com/skillscasts/7224-rest-full-web-service-in-clojure-two-different-approaches), Slides
 
-Libraries references: [Yada](https://github.com/juxt/yada)
+Libraries referenced: [Yada](https://github.com/juxt/yada)
 
 Misc:
 
 
 #### James Reeves, Duct Covered [Talk] - [Video](https://skillsmatter.com/skillscasts/7229-duct-covered), Slides
 
-Libraries references: []()
+Libraries referenced: []()
 
 Misc:
 
 
 #### Michiel Trimpe, Conversational Computing: How Okasaki made McCarthy right yet again [Talk] - [Video](https://skillsmatter.com/skillscasts/7277-conversational-computing-how-okasaki-made-mccarthy-right-yet-again), Slides
 
-Libraries references: []()
+Libraries referenced: []()
 
 Misc:
 
 
 ## Day 2 - 04/12/2015
 
-#### Bridget Hillyer, A tour of the Clojure ecosystem [Keynote] - [Video](), [Slides]()
+#### Bridget Hillyer, A tour of the Clojure ecosystem [Keynote] - [Video](https://skillsmatter.com/skillscasts/7233-keynote-a-tour-of-the-open-source-clojure-ecosystem), [Slides]()
 
-Libraries references: []()
-
-Misc:
-
-
-#### Nicola Mometto, Immutable code analysis with tools.analyzer - [Video](), [Slides]()
-
-Libraries references: []()
+Libraries referenced: []()
 
 Misc:
 
 
-#### Martin Trojer, Best of both worlds, combining Cassandra and Elasticsearch to store and analyse time-series data - [Video](), [Slides]()
+#### Nicola Mometto, Immutable code analysis with tools.analyzer [Talk] - [Video](https://skillsmatter.com/skillscasts/7239-immutable-code-analysis-with-tools-analyzer), [Slides](https://github.com/clojure/tools.analyzer.jvm/blob/master/docs/ClojureX_slides.pdf)
 
-Libraries references: []()
-
-Misc:
-
-
-#### Henry Garner, Expressive parallel analytics with Clojure - [Video](), [Slides]()
-
-Libraries references: []()
+Libraries referenced: []()
 
 Misc:
 
 
-#### Glenn Mailer, Are you afraid of dependencies? - [Video](), [Slides]()
+#### Martin Trojer, Best of both worlds, combining Cassandra and Elasticsearch to store and analyse time-series data [Talk] - [Video](https://skillsmatter.com/skillscasts/7234-best-of-both-worlds-combining-cassandra-and-elasticsearch-to-store-and-analyse-time-series-data), [Slides]()
 
-Libraries references: []()
-
-Misc:
-
-
-#### Alejandro Gómez, Cats & Monads - [Video](), [Slides]()
-
-Libraries references: []()
+Libraries referenced: []()
 
 Misc:
 
 
-#### Frankie Sardo, Revaluating Pedestal - [Video](), [Slides]()
+#### Henry Garner, Expressive parallel analytics with Clojure [Talk] - [Video](https://skillsmatter.com/skillscasts/7243-expressive-parallel-analytics-with-clojure), [Slides](http://clojuredatascience.com/posts/2015-12-05-expressive-parallel-analytics-with-clojure.html)
 
-Libraries references: []()
+Libraries referenced + resources:
 
-Misc:
-
-
-#### Hans Hübner, Datomic in Practice - [Video](), [Slides]()
-
-Libraries references: []()
-
-Misc:
+* [reducers](http://clojure.org/reducers)
+* [transducers](http://clojure.org/transducers)
+* [xforms](https://github.com/cgrand/xforms)
+* [tesser](https://github.com/aphyr/tesser)
+* [core.async](https://github.com/clojure/core.async)
+* [Slides in org mode](https://github.com/henrygarner/cljx-december-2015)
 
 
-#### Patrick Monteith, Building modular systems with asystant - [Video](), [Slides]()
+#### Glenn Mailer, Are you afraid of dependencies? [Lightning Talk] - [Video](https://skillsmatter.com/skillscasts/7251-lightning-talks-day-2), [Slides](https://glenjamin.github.io/afraid-of-dependencies/assets/player/KeynoteDHTMLPlayer.html#0)
 
-Libraries references: []()
+Libraries referenced: []()
 
 Misc:
 
 
-#### Andrei Ursan, Actor systems in Clojure: What are your options? - [Video](), [Slides]()
+#### Alejandro Gómez, Cats & Monads [Lightning Talk] - [Video](https://skillsmatter.com/skillscasts/7251-lightning-talks-day-2), [Slides](https://gist.github.com/dialelo/8964a5586d9dd54212e3)
 
-Libraries references: []()
-
-Misc:
+Library referenced: [cats](https://github.com/funcool/cats)
 
 
-#### Yann Esposito and Guillaume Buisson - [Video](), [Slides]()
+#### Frankie Sardo, Revaluating Pedestal [Lightning Talk] - [Video](https://skillsmatter.com/skillscasts/7251-lightning-talks-day-2), [Slides]()
 
-Libraries references: []()
+Libraries referenced: []()
 
 Misc:
 
 
-#### Ali King, ClojureBridge - Building a more diverse Clojure community - [Video](), [Slides]()
+#### Hans Hübner, Datomic in Practice - [Video](https://skillsmatter.com/skillscasts/7228-datomic-in-practice), [Slides]()
 
-Libraries references: []()
+Libraries referenced: []()
+
+Misc:
+
+
+#### Patrick Monteith, Building modular systems with asystant [Talk] - [Video](https://skillsmatter.com/skillscasts/7257-building-modular-systems-with-asystant), [Slides]()
+
+Libraries referenced: []()
 
 Misc:
 
 
-#### William Hamiltom, Event-based architecture with Kafka and Clojure - [Video](), [Slides]()
+#### Andrei Ursan, Actor systems in Clojure: What are your options? [Talk] - [Video](https://skillsmatter.com/skillscasts/7238-actor-systems-in-clojure-what-are-your-options), [Slides]()
 
-Libraries references: []()
+Libraries referenced: []()
 
 Misc:
+
+
+#### Yann Esposito and Guillaume Buisson [Talk] - [Video](https://skillsmatter.com/skillscasts/7226-full-stack-real-time-social-media-analytics-with-clojure), [Slides]()
+
+Libraries referenced: []()
+
+Misc:
+
+
+#### Ali King, ClojureBridge - Building a more diverse Clojure community [Talk] - [Video](https://skillsmatter.com/skillscasts/7235-clojurebridge-building-a-more-diverse-clojure-community), [Slides]()
+
+Post referenced: [What is hacker culture?](https://mjg59.dreamwidth.org/38746.html)
+
+
+#### William Hamilton, Event-based architecture with Kafka and Clojure [Talk] - [Video](https://skillsmatter.com/skillscasts/7300-event-based-architecture-with-kafka-and-clojure), [Slides]()
+
+Libraries referenced: []()
 
 
 
